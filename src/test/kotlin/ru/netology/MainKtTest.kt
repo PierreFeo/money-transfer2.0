@@ -76,7 +76,7 @@ class MainKtTest {
             maxSumMonthMasterCard = maxSumMonthMasterCard
         )
         //assert
-        assertEquals(3400, result)
+        assertEquals(3500, result)
     }
     @Test
     fun transferMoney_commissionVkPay() {
